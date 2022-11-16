@@ -1,0 +1,28 @@
+{
+  "name": "mocha-example",
+  "version": "1.0.0",
+  "description": "package for this project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HungNewbie/mocha-ex.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "newbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HungNewbie/mocha-ex/issues"
+  },
+  "homepage": "https://github.com/HungNewbie/mocha-ex#readme",
+  "dependencies": {
+    "mocha": "^10.1.0"
+  }
+}
